@@ -16,16 +16,16 @@ make a friend email: <1245863260@qq.com>
 
 宁静致远，积跬步至千里。成功没有捷径（如果你遇到富婆除外），请保持积极乐观的心态。大乘期的四字箴言-终身学习。
 
-烂笔头：推荐使用markdown做笔记。
+:green_book:烂笔头：推荐使用markdown做笔记。
 
-### :green_book: linux-ladder
+### :heavy_check_mark: linux-ladder
 
-### :green_book: go-ladder
+### :heavy_check_mark: go-ladder
 
-### :green_book: python-ladder
+### :heavy_check_mark: python-ladder
 
-### :green_book: k8s-ladder
+### :heavy_check_mark: k8s-ladder
 
-### :green_book: algorithm
+### :heavy_check_mark: algorithm
 
-### :green_book: notebook
+### :heavy_check_mark: notebook
