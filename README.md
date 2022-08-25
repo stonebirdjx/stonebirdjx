@@ -28,7 +28,7 @@ make a friend email: <1245863260@qq.com>
 
 :point_right:学习基本命令使用，学习shell，git，containerd
 
->对开发者建议：除开发环境外，其他（数据库、消息队列、服务部署...）都使用容器进行管理。
+>对开发者建议：除开发环境外，其他（数据库、消息队列、服务部署...）都应该使用容器进行管理。
 
 ### :heavy_check_mark: go-ladder
 
