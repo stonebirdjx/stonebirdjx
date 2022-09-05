@@ -22,11 +22,13 @@ make a friend email: <1245863260@qq.com>
 
 :pencil2:烂笔头：请做好笔记，推荐使用markdown做笔记。
 
+> 如果感觉一头雾水，请不要气馁，你不是一个人。当你感觉进入了瓶颈时，可以尝试寻找身边的战友，总结一些你的问题并寻求答案 🍻。
+
 ### :heavy_check_mark: [linux-ladder](https://github.com/stonebirdjx/linux-ladder)
 
 :point_right:你都应该对 Linux 有所了解，把它黑盒工具会使用即可（走内核路线除外）。
 
-:point_right:学习基本命令使用，学习shell，git，containerd
+:point_right:学习基本命令使用，学习shell，git，[containerd](https://github.com/stonebirdjx/k8s-ladder/blob/master/containerd.md),  [docker](https://github.com/stonebirdjx/k8s-ladder/blob/master/docker.md)
 
 >对开发者建议：除开发环境外，其他（数据库、消息队列、服务部署...）都应该使用容器进行管理。
 
@@ -34,7 +36,9 @@ make a friend email: <1245863260@qq.com>
 
 ### :heavy_check_mark: python-ladder
 
-### :heavy_check_mark: k8s-ladder
+### :heavy_check_mark: [k8s-ladder](https://github.com/stonebirdjx/k8s-ladder)
+
+:point_right:了解基本资源，核心组件。
 
 ### :heavy_check_mark: algorithm
 
