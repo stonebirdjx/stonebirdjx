@@ -38,7 +38,15 @@ make a friend email: <1245863260@qq.com>
 
 ### :heavy_check_mark: [k8s-ladder](https://github.com/stonebirdjx/k8s-ladder)
 
-:point_right:了解基本资源，核心组件。
+:point_right:学习基本资源，核心组件。
+
+:point_right:对k8s基本问题排查
+
+:point_right:了解污点和容忍度、节点维护、访问控制、包管理、监控
+
+:point_right:了解k8s资源对象API，如何使用client-go
+
+:point_right:了解k8s扩展。
 
 ### :heavy_check_mark: algorithm
 
