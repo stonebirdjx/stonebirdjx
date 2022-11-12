@@ -32,9 +32,19 @@ make a friend email: <1245863260@qq.com>
 
 >对开发者建议：除开发环境外，其他（数据库、消息队列、服务部署...）都应该使用容器进行管理。
 
-### :heavy_check_mark: go-ladder
+### :heavy_check_mark: [go-ladder](https://github.com/stonebirdjx/go-ladder)
+
+:point_right:基础入门，熟练使用golang。
+
+:point_right:了解原理、标准库功能、常用命令行。
+
+:point_right:注重安装编码规范。
+
+:point_right:结合知识整理自己的面经、八股文。
 
 ### :heavy_check_mark: python-ladder
+
+feature
 
 ### :heavy_check_mark: [k8s-ladder](https://github.com/stonebirdjx/k8s-ladder)
 
@@ -48,8 +58,14 @@ make a friend email: <1245863260@qq.com>
 
 :point_right:了解k8s扩展。
 
-### :heavy_check_mark: algorithm
+### :heavy_check_mark: [algorithm](https://github.com/stonebirdjx/algo)
+
+:point_right:了解常见数据类型及其题型
+
+:point_right:控制好圈度和复杂度
 
 ### :heavy_check_mark: [notebook](https://github.com/stonebirdjx/notebook)
+
+数据库、消息队列，NGINX、Others
 
 记我所记。略有成长
