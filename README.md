@@ -38,7 +38,7 @@ make a friend email: <1245863260@qq.com>
 
 :point_right:了解原理、标准库功能、常用命令行。
 
-:point_right:注重安装编码规范。
+:point_right:注重安全编码规范。
 
 :point_right:结合知识整理自己的面经、八股文。
 
