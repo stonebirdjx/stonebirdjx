@@ -40,11 +40,21 @@ make a friend email: <1245863260@qq.com>
 
 :point_right:注重安全编码规范。
 
+:point_right:注重单元测试和代码执行覆盖率。
+
 :point_right:结合知识整理自己的面经、八股文。
 
-### :heavy_check_mark: python-ladder
+### :heavy_check_mark: [python-ladder](https://github.com/stonebirdjx/python-ladder)
 
-feature
+:point_right:基础入门，熟练使用基本语法。
+
+:point_right:了解常用魔法函数、标准库和一些常用的库。
+
+:point_right:注重安全编码规范。
+
+:point_right:注重单元测试和代码执行覆盖率。
+
+:point_right:结合知识整理自己的面经、八股文。
 
 ### :heavy_check_mark: [k8s-ladder](https://github.com/stonebirdjx/k8s-ladder)
 
@@ -60,12 +70,12 @@ feature
 
 ### :heavy_check_mark: [algorithm](https://github.com/stonebirdjx/algo)
 
-:point_right:了解常见数据类型及其题型
+:point_right:了解常见数据类型、和题型解答套路
 
 :point_right:控制好圈度和复杂度
 
 ### :heavy_check_mark: [notebook](https://github.com/stonebirdjx/notebook)
 
-数据库、消息队列，NGINX、Others
+文件系统、存储、数据库、消息队列，Nginx、Others
 
 记我所记。略有成长
