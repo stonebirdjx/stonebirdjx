@@ -79,3 +79,12 @@ make a friend email: <1245863260@qq.com>
 文件系统、存储、数据库、消息队列，Nginx、Others
 
 记我所记。略有成长
+
+## [成为:100: 的架构师](https://github.com/stonebirdjx/notebook/blob/master/100%E5%88%86%E7%9A%84%E6%9E%B6%E6%9E%84%E5%B8%88.md)
+
+
+
+
+
+
+
