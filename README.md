@@ -68,6 +68,10 @@ make a friend email: <1245863260@qq.com>
 
 :point_right:了解k8s扩展。
 
+### :heavy_check_mark: [rust-ladder](https://github.com/stonebirdjx/rust-ladder)
+
+interested, and studying
+
 ### :heavy_check_mark: [algorithm](https://github.com/stonebirdjx/algo)
 
 :point_right:了解常见数据类型、和题型解答套路
@@ -82,7 +86,7 @@ make a friend email: <1245863260@qq.com>
 
 ## [成为:100: 的架构师](https://github.com/stonebirdjx/notebook/blob/master/100%E5%88%86%E7%9A%84%E6%9E%B6%E6%9E%84%E5%B8%88.md)
 
-
+正在成为一个优秀的架构师
 
 
 
