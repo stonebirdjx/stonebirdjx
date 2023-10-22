@@ -12,12 +12,20 @@
 
 :pencil2:烂笔头：请做好笔记，做好面经，推荐使用`markdown`做笔记。如果感觉一头雾水，请不要气馁，你不是一个人。当你感觉进入了瓶颈时，可以尝试寻找身边的战友，总结一些你的问题并寻求答案:balloon:
 
-- [*linux-ladder*](https://github.com/stonebirdjx/linux-ladder) :
+- [*linux-ladder*](https://github.com/stonebirdjx/linux-ladder): 无论如何你都应该对 Linux 有所了解，把它黑盒工具会使用即可(走内核路线除外)。学习常用命令, *shell脚本, git, containerd, docker*。
+
+  对开发者建议：除本地开发环境外，其他环境(数据库、消息队列、服务部署...)都应该使用容器进行管理。
+
 - [*go-ladder*]() :
+
 - [*k8s-ladder*]() :
+
 - [*python-ladder*]() :
+
 - [*algo*]():
+
 - [*notebook*]():
+
 - [*100分的架构师*]():
 
 > 资料均为个人学习和工作收集，仅供学习交流，不涉及商业用途。如果你对相关内容感兴趣，请尊重创作者，遵守相关协议，非商业行为下传播。
