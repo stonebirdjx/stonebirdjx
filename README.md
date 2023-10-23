@@ -16,16 +16,16 @@
 
   对开发者建议：除本地开发环境外，其他环境(数据库、消息队列、服务部署...)都应该使用容器进行管理。
 
-- [*go-ladder*]() :
+- [*go-ladder*](https://github.com/stonebirdjx/go-ladder) 
 
-- [*k8s-ladder*]() :
+- [*k8s-ladder*](https://github.com/stonebirdjx/k8s-ladder) 
 
-- [*python-ladder*]() :
+- [*python-ladder*](https://github.com/stonebirdjx/python-ladder) 
 
-- [*algo*]():
+- [*algo*](https://github.com/stonebirdjx/algo)
 
-- [*notebook*]():
+- [*notebook*](https://github.com/stonebirdjx/notebook)
 
-- [*100分的架构师*]():
+- [*100分的架构师*](https://github.com/stonebirdjx/notebook/blob/master/100%E5%88%86%E7%9A%84%E6%9E%B6%E6%9E%84%E5%B8%88.md)
 
 > 资料均为个人学习和工作收集，仅供学习交流，不涉及商业用途。如果你对相关内容感兴趣，请尊重创作者，遵守相关协议，非商业行为下传播。
